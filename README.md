@@ -38,9 +38,9 @@ cat < ~/.jenkins/secrets/initialAdminPassword
 > After unlock jenkins we are creating the first admin user in jenkins Server.
 
 ## Steps to create a Project in jenkins
-![Jenkins Main Window](https://www.ionos.co.uk/digitalguide/fileadmin/DigitalGuide/Screenshots_2018/Jenkins-tutorial5.png)
+![Jenkins Main Window]()
 1. Click on New Item
-![Jenkins Project Window](https://images.idgesg.net/images/article/2017/12/jenkins-new-item-100743392-large.jpg?auto=webp&quality=85,70)
+![Jenkins Project Window]()
 2. Enter the Project Name in the **Enter a item Name.**
 3. Then Select FreeStyle Project.
 4. Then Click on Ok.
